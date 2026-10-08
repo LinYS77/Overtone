@@ -1,6 +1,6 @@
 # Overtone
 
-Parameter-efficient adaptation of [DINOv3](https://github.com/facebookresearch/dinov3) for hyperspectral image analysis.
+Parameter-efficient adaptation of RGB-pretrained backbones for hyperspectral image analysis.
 
 The project covers:
 
